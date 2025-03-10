@@ -21,7 +21,7 @@ export default function SameChannelVideos({ channelId }) {
       {videos && (
         <ul>
           {videos.map((video) => (
-            <VideoCard key={video.id} video={video} type='list' />
+            <VideoCard key={video.id.videoId} video={video} type='list' />
           ))}
         </ul>
       )}
