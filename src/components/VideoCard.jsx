@@ -10,7 +10,6 @@ export default function VideoCard({ video, type }) {
     <li
       className={isList ? 'flex gap-1 m-2' : ''}
       onClick={() => {
-        video.id = isList ? video.id.videoId : video.id;
         navigate(`/videos/watch/${video.id}`, { state: { video } });
         console.log(video);
       }}
