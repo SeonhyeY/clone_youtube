@@ -1,0 +1,44 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "i6hLGGHhYxm4xueTkfhK815ht5Y",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "VavluUTPelEkw0mWoLA_Kd_ORn4",
+      "id": "UCfpCQ89W9wjkHc8J_6eTbBg",
+      "snippet": {
+        "title": "Outdoor Boys",
+        "description": "Me and my boys, Tommy, Nate and Jacob are the Outdoor Boys. We love all things outdoors: family projects and adventures, travel, forging, camping, camp fire cooking, fossil hunting, magnet fishing, metal detecting, goofing around whatever we darn-well feel like!! \nWe also do tons of fishing videos and have posted over 300 videos on our fishing YouTube Channel https://www.youtube.com/catfishandcarp",
+        "customUrl": "@outdoorboys",
+        "publishedAt": "2015-05-05T00:34:51Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kMwdFZd-Nl1trq6PgKkkqH58o9Lj0phbNoTaFTtNeoNg4=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kMwdFZd-Nl1trq6PgKkkqH58o9Lj0phbNoTaFTtNeoNg4=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_kMwdFZd-Nl1trq6PgKkkqH58o9Lj0phbNoTaFTtNeoNg4=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Outdoor Boys",
+          "description": "Me and my boys, Tommy, Nate and Jacob are the Outdoor Boys. We love all things outdoors: family projects and adventures, travel, forging, camping, camp fire cooking, fossil hunting, magnet fishing, metal detecting, goofing around whatever we darn-well feel like!! \nWe also do tons of fishing videos and have posted over 300 videos on our fishing YouTube Channel https://www.youtube.com/catfishandcarp"
+        },
+        "country": "US"
+      }
+    }
+  ]
+}
